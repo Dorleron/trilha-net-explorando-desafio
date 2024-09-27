@@ -1,0 +1,14 @@
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.exe
+C:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.deps.json
+C:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.runtimeconfig.json
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.dll
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\bin\Debug\net6.0\DesafioProjetoHospedagem.pdb
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.dll
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\obj\Debug\net6.0\refint\DesafioProjetoHospedagem.dll
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.pdb
+C:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\obj\Debug\net6.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-explorando-desafio-main\obj\Debug\net6.0\ref\DesafioProjetoHospedagem.dll
